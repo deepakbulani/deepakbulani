@@ -13,6 +13,6 @@
 
 - 📫 Reach me at bulani.deepak2@gmail.com
 
-- 👨‍💻 All of my projects are available at my [home page](https://github.com/deepakbulani).
+- 👨‍💻 All of my projects are available at my [home page](https://github.com/deepakbulani?tab=repositories).
 
 - I have a habit to document technical stuffs that I do, which can be found at my [medium blog](https://medium.com/@bulani.deepak2).
