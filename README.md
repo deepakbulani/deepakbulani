@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Deepak 👋
 
-<!--
-**deepakbulani/deepakbulani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A full stack developer from India 🇮🇳
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my project: [Faceplay](https://github.com/deepakbulani/FacePlay).
+
+- 👯 Open to collaboration on innovative tech ideas
+
+- 🤔 I’m looking for help with my project: [Blackhole Attack](https://github.com/deepakbulani/BlackHoleAttack).
+
+- 💬 Ask me about javascript, java, sql and python.
+
+- 📫 Reach me at bulani.deepak2@gmail.com
+
+- 👨‍💻 All of my projects are available at my [home page](https://github.com/deepakbulani).
+
+- I have a habit to document technical stuffs that I do, which can be found at my [medium blog](https://medium.com/@bulani.deepak2).
